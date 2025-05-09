@@ -5,7 +5,8 @@
 
 This is a simple yet comprehensive **True/False Quiz App** developed using **Swift** and **Xcode**. It presents users with a series of **Swift programming-related questions** categorized by difficulty (Basic, Medium, and Advanced) to help in **interview preparation and learning**.
 
----!![App Screenshot](Documentation/banner.png)
+---!![Banner](Documentation/![banner](https://github.com/user-attachments/assets/7677c2d1-c77e-458b-b80c-fedd3e17ec7a)
+)
 
 ## ✅ Features
 
